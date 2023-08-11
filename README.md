@@ -8,5 +8,7 @@
 - `Funcionalidad 2c`: Descubrimiento de variantes de procesos
 
 Este proyecto es una plataforma que fue desarrollada para realizar pruebas y entregar los resultados como parte de mi tesis de grado,
-actualmente la app se encuentra en, https://pymes-plus.netlify.app/, pero debido a que fue realizado con servidores gratuitos, la API
-Actualmente no se encuetra activada
+esta aplicación fue desarrollada en React.Js, aplicando un poco de Bootstrap para darle una estetica minimalista y elegante, lo que se
+contrasta con un fondo de particulas animado de los elementos que hacen parte del logo de la aplicación.
+Actualmente la app se encuentra en, https://pymes-plus.netlify.app/, pero debido a que fue realizado con servidores gratuitos, la API
+actualmente NO se encuetra activada
