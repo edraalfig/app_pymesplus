@@ -1,4 +1,4 @@
-# Plataforma de PymesPlus
+### Plataforma de PymesPlus
 ## :hammer:Funcionalidades 
 
 - `Funcionalidad 1`: Login de ingreso y registro de usuarios
