@@ -1,0 +1,17 @@
+/* .lista {
+  display: inline;
+  padding-left: 3px;
+  padding-right: 3px;
+} */
+section{
+  margin: 15px 0 15px 0;
+}
+
+/* .act-res {
+  background: #f2f2f2;
+  padding: 25px 0 25px 0;
+} */
+
+.grafiCard {
+  list-style: none;
+}

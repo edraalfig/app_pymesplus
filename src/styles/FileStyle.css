@@ -1,0 +1,11 @@
+.fileCard {
+  list-style: none;
+  text-align: center;
+  transition: 0.5s;
+}
+
+.fileCard:hover {
+  opacity: 0.5;
+  transform: translateY(-30px);
+  transition: 0.5s;
+}
